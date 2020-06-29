@@ -22,8 +22,9 @@ In order to improve the speed of project compilation, for a project team that us
 
 ## Link
 
-Original article address: [Jianshu] (https://www.jianshu.com/p/92905b50ad06)
-Automatic upload of `podspec` script: [upload_spec](https://github.com/XiaoWuTongZhi/upload_podspec)
+Article link: [Jianshu] (https://www.jianshu.com/p/92905b50ad06)
+
+Auto upload podspec script: [upload_spec](https://github.com/XiaoWuTongZhi/upload_podspec)
 
 
 
