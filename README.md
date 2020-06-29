@@ -1,6 +1,6 @@
 # Cocoapods Binary
 
-[![CI Status](https://img.shields.io/travis/609223770@qq.com/ABC.svg?style=flat)](https://travis-ci.org/609223770@qq.com /ABC)
+[![CI Status](https://img.shields.io/travis/609223770@qq.com/ABC.svg?style=flat)](https://travis-ci.org/609223770@qq.com/ABC)
 [![Version](https://img.shields.io/cocoapods/v/ABC.svg?style=flat)](https://cocoapods.org/pods/ABC)
 [![License](https://img.shields.io/cocoapods/l/ABC.svg?style=flat)](https://cocoapods.org/pods/ABC)
 [![Platform](https://img.shields.io/cocoapods/p/ABC.svg?style=flat)](https://cocoapods.org/pods/ABC)
