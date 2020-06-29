@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ABC_Example' do
+  pod 'ABC', :path => '../'
+
+  target 'ABC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
