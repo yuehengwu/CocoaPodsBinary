@@ -35,7 +35,9 @@ TODO: Add long description of the pod here.
     s.public_header_files = 'Pod/Products/include/*.h'
     
   else
-    
+    puts '-------------------------------------------------------------------'
+    puts 'Notice:ABC is source code now'
+    puts '-------------------------------------------------------------------'
     s.source_files = 'ABC/Classes/**/*'
   
   end
