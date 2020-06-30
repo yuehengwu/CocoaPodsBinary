@@ -11,11 +11,11 @@ iOS CocoaPods component binary solution practice
 
 With the expansion of business and the increase of project volume, CocoaPods component library is more and more, and the speed is getting slower and slower every time it is recompiled, which brings us the need to increase the compilation speed.
 
-In order to improve the speed of project compilation, for a project team that uses a lot of component development, component binaryization is an inevitable route. The advantages of the binary scheme implemented by Demo are as follows
+In order to improve the speed of project compilation, for a project team that uses a lot of component development, component binaryization is an inevitable route. The advantages of the binary scheme implemented by Demo are as followskey
 
 ## Feature
-
-- [x] Support one-key switch between binary and source code using tag
+- [x] Supports environment variables to switch
+- [x] Support using tag to switch
 - [x] Support a set of code to manage source code and binary projects at the same time
 - [x] Support `prepare_command` one-click packaging script
 - [x] Support not uploading binary packages to git, reduce the space pressure of git warehouse address
