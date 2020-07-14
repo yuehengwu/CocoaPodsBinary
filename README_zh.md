@@ -20,7 +20,7 @@ iOS CocoaPods 组件二进制化方案实践
 
 ## 链接
 
-文章原文地址：[简书](https://www.jianshu.com/p/92905b50ad06)
+文章原文地址：[掘金](https://juejin.im/post/5efaf0655188252e42157e8a)
 
 自动上传`podspec`脚本：[upload_spec](https://github.com/XiaoWuTongZhi/upload_podspec)
 
